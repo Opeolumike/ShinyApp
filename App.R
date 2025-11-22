@@ -8,8 +8,6 @@ library(ggiraph)
 library(RColorBrewer)
 library(terra)
 library(leafem)
-library(shinylive)
-library(httpuv)
 
 
 options(shiny.maxRequestSize = 1000 * 1024^2)
